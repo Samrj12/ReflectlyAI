@@ -8,7 +8,7 @@ import FeedbackPage from './components/FeedbackPage'
 function App() {
 
   return (
-    <Router>
+    <Router basename='/reflectlyai/'>
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/interview" element={<InterviewPage />} />
