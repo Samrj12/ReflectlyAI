@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import LandingPage from './components/LandingPage'
 import AudioRecorder from './components/AudioRecorder'
-import {HashRouter as Router, Route, Routes} from 'react-router-dom'
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom'
 import InterviewPage from './components/InterviewPage'
 import FeedbackPage from './components/FeedbackPage'
 
