@@ -1,0 +1,67 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Geist&display=swap");
+@import "tailwindcss";
+
+body {
+  font-family: "Geist", "sans-serif"; 
+}
+
+
+.flt_svg {
+    visibility: hidden; 
+    position: absolute;
+    width: 0px;
+    height: 0px;
+}
+
+.parent
+{
+    filter: url('#flt_tag');
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animated-gradient {
+  background-size: 200% 200%;
+  animation: gradientShift 10s ease infinite;
+}
+
+@keyframes bg-shine {
+  0% {
+    background-position: 0 0;
+  }
+  40% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.bg-shine {
+  animation: bg-shine 6s linear infinite;
+  background-size: 200% 100%; 
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.pulse-animation {
+  animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
