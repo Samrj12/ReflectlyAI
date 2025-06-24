@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReflectlyAI/static/css/main.0ac67a38.css",
+    "main.js": "/ReflectlyAI/static/js/main.fe9d7f30.js",
+    "static/media/frame.png": "/ReflectlyAI/static/media/frame.d85b7f82453d157d2ed9.png",
+    "static/media/stars-pattern2.svg": "/ReflectlyAI/static/media/stars-pattern2.52055db528e6fafbb5bad74d1d6b984d.svg",
+    "static/media/stars-pattern1.svg": "/ReflectlyAI/static/media/stars-pattern1.4eb74e2dd9207458c0771e4ca6eff2f4.svg",
+    "index.html": "/ReflectlyAI/index.html",
+    "main.0ac67a38.css.map": "/ReflectlyAI/static/css/main.0ac67a38.css.map",
+    "main.fe9d7f30.js.map": "/ReflectlyAI/static/js/main.fe9d7f30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ac67a38.css",
+    "static/js/main.fe9d7f30.js"
+  ]
+}
