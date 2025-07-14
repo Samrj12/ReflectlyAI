@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/ReflectlyAI/static/css/main.ef337941.css",
-    "main.js": "/ReflectlyAI/static/js/main.1fee4f10.js",
+    "main.css": "/ReflectlyAI/static/css/main.e03a2274.css",
+    "main.js": "/ReflectlyAI/static/js/main.f6819471.js",
     "static/media/bg-video.mp4": "/ReflectlyAI/static/media/bg-video.156d526fab2464be4d5a.mp4",
     "static/media/frame.png": "/ReflectlyAI/static/media/frame.d85b7f82453d157d2ed9.png",
-    "static/media/Logo.png": "/ReflectlyAI/static/media/Logo.938a1589a2ecd9296a68.png",
     "static/media/stars-pattern2.svg": "/ReflectlyAI/static/media/stars-pattern2.52055db528e6fafbb5bad74d1d6b984d.svg",
     "static/media/stars-pattern1.svg": "/ReflectlyAI/static/media/stars-pattern1.4eb74e2dd9207458c0771e4ca6eff2f4.svg",
     "index.html": "/ReflectlyAI/index.html",
-    "main.ef337941.css.map": "/ReflectlyAI/static/css/main.ef337941.css.map",
-    "main.1fee4f10.js.map": "/ReflectlyAI/static/js/main.1fee4f10.js.map"
+    "main.e03a2274.css.map": "/ReflectlyAI/static/css/main.e03a2274.css.map",
+    "main.f6819471.js.map": "/ReflectlyAI/static/js/main.f6819471.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef337941.css",
-    "static/js/main.1fee4f10.js"
+    "static/css/main.e03a2274.css",
+    "static/js/main.f6819471.js"
   ]
 }
