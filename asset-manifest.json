@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ReflectlyAI/static/css/main.6e8cf810.css",
-    "main.js": "/ReflectlyAI/static/js/main.88848ee5.js",
+    "main.js": "/ReflectlyAI/static/js/main.d3896a20.js",
     "static/media/bg-video.mp4": "/ReflectlyAI/static/media/bg-video.156d526fab2464be4d5a.mp4",
     "static/media/frame.png": "/ReflectlyAI/static/media/frame.d85b7f82453d157d2ed9.png",
     "static/media/stars-pattern2.svg": "/ReflectlyAI/static/media/stars-pattern2.52055db528e6fafbb5bad74d1d6b984d.svg",
     "static/media/stars-pattern1.svg": "/ReflectlyAI/static/media/stars-pattern1.4eb74e2dd9207458c0771e4ca6eff2f4.svg",
     "index.html": "/ReflectlyAI/index.html",
     "main.6e8cf810.css.map": "/ReflectlyAI/static/css/main.6e8cf810.css.map",
-    "main.88848ee5.js.map": "/ReflectlyAI/static/js/main.88848ee5.js.map"
+    "main.d3896a20.js.map": "/ReflectlyAI/static/js/main.d3896a20.js.map"
   },
   "entrypoints": [
     "static/css/main.6e8cf810.css",
-    "static/js/main.88848ee5.js"
+    "static/js/main.d3896a20.js"
   ]
 }
